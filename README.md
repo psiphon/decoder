@@ -2,7 +2,7 @@
 
 ![mode:on demand only](https://img.shields.io/badge/mode-on%20demand%20only-blue.svg)
 
-![image](images/indicator-tab.png)
+![image](images/screenshot.png)
 
 The Polarity string decoder integration can Currently supports decoding of Base64 and URL Encoded strings
 
